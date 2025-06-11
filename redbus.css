@@ -1,0 +1,122 @@
+.red{
+    width: 280px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(255, 156, 156);
+    border: none;
+   
+}
+.red1{
+    width: 280px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(233, 187, 119);
+    border: none;
+}
+.red2{
+    width: 280px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(221, 162, 221);
+    border: none;
+}
+.red3{
+    width: 280px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(233, 170, 170);
+    border: none;
+}
+.b1{
+    margin-top: 17px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    color: white;
+    height: 20px;
+}
+.b2{
+    margin-top: 20px;
+    margin-left: 10px ;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    color: white;
+    height: 20px;
+}
+.b3{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    color: white;
+    height: 20px;
+}
+.b4{
+    margin-top:20px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(165, 164, 164);
+    color: white;
+    height: 20px;
+}
+.bus{
+ padding-left: 40px;
+    padding-top: 10px;
+    font-size: medium;
+}
+.bus1{
+    padding-left:15%;
+    padding-top: 10px;
+    font-size: medium;
+}
+.bus2{
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: medium;
+}
+.bus3{
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: medium;
+}
+.for{
+    margin-left: 8px;
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    width: 70px;
+}
+.for1{
+    margin-left: 8px;
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    width: 70px;
+}
+.for2{
+    margin-left: 8px;
+    border-radius: 10px;
+    border: none;
+     height: 25px;
+    width: 70px;
+}
+.for3{
+    margin-left: 8px;
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    width: 78px;
+}
+.bus-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
